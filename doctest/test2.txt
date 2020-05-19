@@ -1,0 +1,6 @@
+>>> from series import fibonacci
+>>> fibonacci(12)
+144
+
+>>> fibonacci(20)
+6765

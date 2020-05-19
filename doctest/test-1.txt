@@ -1,0 +1,23 @@
+la suma de 5 + 5 es igual a 10
+>>> 5 + 5
+10
+
+>>> def factorial(num):
+...     fact = 1
+...     if num == 0:
+...         pass
+...     else:
+...         incremento = 1
+...         while incremento <= num:
+...             fact = fact * incremento
+...             incremento +=1
+...     return fact
+
+factorial de 3 es 6
+>>> factorial(3)
+6
+
+factorial de 0 es 1
+>>> factorial(0)
+1
+     
